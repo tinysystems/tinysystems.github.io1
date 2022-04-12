@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to ENT-Lab Group
 
-You can use the [editor on GitHub](https://github.com/tinysystems/tinysystems.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+As Embedded and Networked Things Group (ENT-Lab), we do research on hardware and software for networked embedded systems that have resource and energy constraints. We are interested in problems at the intersection of embedded systems, internet of things (IoT), wireless communication and network protocols, self-organizing sensor networks, distributed algorithms, operating systems/run-times and many more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our current research activities include:
+- Software and hardware support for intermittent computing
+- Transiently-powered networking
+- Learning and inference on the batteryless edge.
 
-### Markdown
+### Open Source Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### ImmortalThreads
+[Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers](https://tinysystems.github.io/ImmortalThreads/) published in the [16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)](https://www.usenix.org/conference/osdi22)
 
-```markdown
-Syntax highlighted code block
+#### Taskify
 
-# Header 1
-## Header 2
-### Header 3
+[Taskify: An Integrated Development Environment to Develop and Debug Intermittent Software for the Batteryless Internet of Things](https://github.com/tinysystems/Taskify) published in [WPSN 2020 IEEE 2nd International Workshop on Wirelessly Powered Systems and Networks](https://ebulutvcu.github.io/WPSN-2020/#program)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tinysystems/tinysystems.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
