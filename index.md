@@ -7,13 +7,13 @@ Our current research activities include:
 - Transiently-powered networking
 - Learning and inference on the batteryless edge.
 
-### Open Source Projects
+## Open Source Projects
 
 Please check the websites of our open source projects listed below.
 
-#### ImmortalThreads
+### ImmortalThreads
 [Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers](https://tinysystems.github.io/ImmortalThreads/) published in the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)
 
-#### Taskify
+### Taskify
 
 [Taskify: An Integrated Development Environment to Develop and Debug Intermittent Software for the Batteryless Internet of Things](https://github.com/tinysystems/Taskify) published in WPSN 2020 IEEE 2nd International Workshop on Wirelessly Powered Systems and Networks
