@@ -11,6 +11,14 @@ Our current research activities include:
 
 Please check the websites of our open source projects listed below.
 
+| **Link** | **Title** | **Venue** |
+|----------|-----------|-----------|
+|   [ImmortalThreads](https://tinysystems.github.io/ImmortalThreads/)       |   Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers
+      |      6th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)       |
+|          |           |           |
+|          |           |           |
+|          |           |           |
+
 ### ImmortalThreads
 [Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers](https://tinysystems.github.io/ImmortalThreads/) published in the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)
 
