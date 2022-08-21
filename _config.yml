@@ -1,4 +1,6 @@
-title:
-description: 
+title: Ent-Lab Group
+logo: /assets/img/logo.png
+description: Embedded and Networked Things Group
 show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
