@@ -1,4 +1,4 @@
-## Welcome to ENT-Lab Group
+# Welcome to ENT-Lab Group
 
 As Embedded and Networked Things Group (ENT-Lab), we do research on hardware and software for networked embedded systems that have resource and energy constraints. We are interested in problems at the intersection of embedded systems, internet of things (IoT), wireless communication and network protocols, self-organizing sensor networks, distributed algorithms, operating systems/run-times and many more.
 
