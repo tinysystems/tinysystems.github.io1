@@ -6,7 +6,7 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 sidebar:
-- name: About
+  - name: About
     icon: <span class="material-symbols-outlined"> settings_accessibility </span>
     link: /about.html
   - name: Members
