@@ -1,5 +1,5 @@
-## Group Head
-<table style="width:75%">
+# Group Head
+<table style="width:50%">
   <tr>
     <td style="text-align:center"><img src="/assets/img/ksy.jpeg" height="175"></td>
   </tr>
