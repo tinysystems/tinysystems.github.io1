@@ -16,21 +16,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-                     
+                             
         {% include sidebar.html %}
       </header>
       <section>
 
       {{ content }}
-        <h2>Latest and Selected Publications</h2>
-        {% include publications.html %}
+        
       </section>
       <footer>
         {% if site.github.is_project_page %}
