@@ -8,3 +8,6 @@ Our current research activities include:
 - Architectural (hardware) support for intermittent computing
 - Batteryless and intermittent networking
 - Tiny machine learning on the batteryless edge.
+
+## Equipment
+<img align="left" width="200px" src="assets/img/logo.png" /> ENT-Lab offers state-of-the-art microcontroller-based computing platforms,  field-programmable gate arrays (FPGAs), sensors, wireless modules, energy harvesting kits, and measurement tools to create testbeds for experimental evaluations and demonstrate real-world applications.
