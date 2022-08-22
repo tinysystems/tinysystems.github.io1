@@ -17,10 +17,7 @@ sidebar:
     link: /open-source.html   
   - name: Publications
     icon: <span class="material-symbols-outlined"> star_half </span>
-    link: https://scholar.google.com.tr/citations?hl=en&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate
-  - name: GitHub
-    icon: <span class="material-symbols-outlined"> activity_zone </span>
-    link: https://github.com/tinysystems    
+    link: https://scholar.google.com.tr/citations?hl=en&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate 
   - name: Contact
     icon: <span class="material-symbols-outlined"> contact_phone </span>
     link: /contact.html
