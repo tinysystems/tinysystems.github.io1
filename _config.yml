@@ -23,7 +23,7 @@ sidebar:
     link: https://github.com/tinysystems    
   - name: Contact
     icon: <span class="material-symbols-outlined"> contact_phone </span>
-    :link /contact.html
+    link: /contact.html
 
 publications:
   - name: "AdaMICA: Adaptive Multicore Intermittent Computing"
