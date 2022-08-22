@@ -18,6 +18,9 @@ sidebar:
   - name: Publications
     icon: <span class="material-symbols-outlined"> star_half </span>
     link: https://scholar.google.com.tr/citations?hl=en&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate 
+  - name: Collaborations
+    icon: <span class="material-symbols-outlined"> diversity_3 </span>
+    link: /collab.html
   - name: Contact
     icon: <span class="material-symbols-outlined"> contact_phone </span>
     link: /contact.html
