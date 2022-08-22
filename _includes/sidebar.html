@@ -9,9 +9,7 @@
         color: var(--clr-a-text-hvr);
       }
     </style>
-    <table><tr>
-        {%- for platform in site.sidebar %}
-            <tr><td valign="center"><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a> </td></tr>
-        {%- endfor %}
-    </table>      
+    {%- for platform in site.sidebar %}
+        <a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></br>
+    {%- endfor %}      
   </div>
