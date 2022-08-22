@@ -1,7 +1,6 @@
-# Group Head
 <table style="width:50%">
   <tr>
-    <td style="text-align:center"><img src="/assets/img/ksy.jpeg" height="175"></td>
+    <td style="text-align:center"><img src="/assets/img/ksy.jpeg" height="125"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://sinanyil81.github.io/">Kasim Sinan Yildirim</a> <br>Assistant Professor, University of Trento</td>
