@@ -4,18 +4,12 @@
         color:var(--clr-h1-and-bold);
         text-decoration:none;
       }
-      ul {
-        list-style-type: none;
-        margin-left: 40px;
-      }
       ul.link a:hover, a:focus {
         color: var(--clr-a-text-hvr);
       }
     </style>
-      <ul>
       {%- for platform in site.publications %}
       <!-- <li><a href="{{ platform.link }}"><i class="{{ platform.icon }}"></i> {{ platform.name }}</a></li> -->
-       <li><a href="{{ platform.link }}"><span class="material-symbols-outlined"> check_circle </span>&nbsp;{{ platform.name }}</a>, {{ platform.venue }}</li>
+       <a href="{{ platform.link }}"><span class="material-symbols-outlined"> check_circle </span>&nbsp;{{ platform.name }}</a>, {{ platform.venue }} </br>
       {%- endfor %}
-      </ul>
   </div>
