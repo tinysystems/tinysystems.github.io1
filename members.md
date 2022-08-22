@@ -1,5 +1,12 @@
 ## Group Head
-- [Kasim Sinan Yildirim](https://sinanyil81.github.io/)
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="/assets/img/ksy.jpeg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://sinanyil81.github.io/">Kasim Sinan Yildirim</a> <br>Assistant Professor, University of Trento</td>
+  </tr>  
+</table>
 
 ## PhD Candidates
 - [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856)
