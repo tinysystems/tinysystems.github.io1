@@ -15,16 +15,6 @@
 
 ## Research Institutes and Industry
 
-| [Sintef](https://www.sintef.no/en/) |
-|:-----------------------------------|
-| <img src="https://kommunikasjon.ntb.no/data/images/00560/52a83680-eb2a-4784-b330-05dbce25f769.jpg" height="125"> | 
-
-
-| [Witted Srl](https://www.witted.eco/) |
-|:-----------------------------------|
-| <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGZbfzxnkYFUQ/company-logo_200_200/0/1627046225160?e=1669248000&v=beta&t=D0quY3AUE8jfGe8tyPp5mf--zLaOsNuh2QZj9s3IcdI" height="125"> | 
-
-
-
-
-
+| [Sintef](https://www.sintef.no/en/) | [Witted Srl](https://www.witted.eco/) |
+|:-----------------------------------|:-----------------------------------|
+| <img src="https://kommunikasjon.ntb.no/data/images/00560/52a83680-eb2a-4784-b330-05dbce25f769.jpg" height="125"> | <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGZbfzxnkYFUQ/company-logo_200_200/0/1627046225160?e=1669248000&v=beta&t=D0quY3AUE8jfGe8tyPp5mf--zLaOsNuh2QZj9s3IcdI" height="125"> | 
