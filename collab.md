@@ -1,6 +1,7 @@
 ## Universities
 
 | [Delft University of Technology]() |
+|:-----------------------------------|
 | <img src="https://d2k0ddhflgrk1i.cloudfront.net/Websections/Huisstijl/Bouwstenen/Logo/Descriptor/TUDelft_logo_descriptor_rgb.png" height="125"> |
 
 
