@@ -4,7 +4,7 @@
 |:-----------------------------------|:-----------------------------------|
 | <img src="https://d2k0ddhflgrk1i.cloudfront.net/Websections/Huisstijl/Bouwstenen/Logo/Descriptor/TUDelft_logo_descriptor_rgb.png" height="125"> | <img src="https://www.northwestern.edu/brand/images/nu-horizontal.jpg" height="125"> |
 
-| [Worcester Polytechnic Institute](https://www.wpi.edu/) | [Eindhiven University of Technology](https://www.tue.nl/en/)) |
+| [Worcester Polytechnic Institute](https://www.wpi.edu/) | [Eindhiven University of Technology](https://www.tue.nl/en/) |
 |:-----------------------------------|:-----------------------------------|
 | <img src="https://www.wpi.edu/sites/default/files/inline-image/Offices/Marketing-Communications/WPI_Inst_Prim_FulClr.png" height="125"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Eindhoven_University_of_Technology_logo_new.png?20190217013828" height="125"> |
 
