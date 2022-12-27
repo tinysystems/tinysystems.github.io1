@@ -3,7 +3,8 @@ logo: /assets/img/new-logo.png
 description: Embedded and Networked Things Group, University of Trento, Italy
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 
 sidebar:
   - name: Home
